@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  color: #18243a;
+  background: #f0f5fa;
+}
+
+header {
+  padding: 1.5rem 1rem;
+  text-align: center;
+  color: white;
+  background: #143b67;
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 1rem;
+}
+
+nav a {
+  color: white;
+}
+
+main {
+  max-width: 48rem;
+  margin: auto;
+  padding: 1rem;
+}
+
+section {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background: white;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
