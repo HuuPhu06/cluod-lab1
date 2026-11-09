@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 270" role="img" aria-label="Cloud connects computers and phones">
+  <rect width="720" height="270" rx="20" fill="#eaf3fc"/>
+  <path d="M360 124v31H160v26m200-26h200v26" fill="none" stroke="#5786b2" stroke-width="4"/>
+  <path d="M301 128a27 27 0 0 1-1-54 46 46 0 0 1 87-10 32 32 0 1 1 22 64z" fill="#fff" stroke="#143b67" stroke-width="4"/>
+  <text x="355" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#143b67">Cloud</text>
+  <rect x="117" y="180" width="86" height="49" rx="5" fill="#fff" stroke="#143b67" stroke-width="4"/>
+  <path d="M160 230v12m-23 0h46" stroke="#143b67" stroke-width="4" stroke-linecap="round"/>
+  <rect x="540" y="178" width="40" height="65" rx="7" fill="#fff" stroke="#143b67" stroke-width="4"/>
+  <circle cx="560" cy="233" r="2.5" fill="#143b67"/>
+</svg>
